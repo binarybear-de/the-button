@@ -1,4 +1,6 @@
 
+![notaus.jpg]([/programmcode/notfallsperrknopf/notaus.jpg](https://github.com/binarybear-de/the-button/blob/main/171538301180408253.png))
+
 In einem Notaus-Schaltergehäuse wird ein Arduino Pro Micro verbaut, welcher über USB an den PC angeschlossen wird.
 Ziel des Projektes ist ein Knopf zum schnellen Windows sperren (oder sonstigen Programmierbaren Tastenkombinationen für das Betriebssystem.
 
