@@ -1,7 +1,10 @@
 In einem Notaus-Schaltergehäuse wird ein Arduino Pro Micro verbaut, welcher über USB an den PC angeschlossen wird.
 Ziel des Projektes ist ein Knopf zum schnellen Windows sperren (oder sonstigen Programmierbaren Tastenkombinationen für das Betriebssystem.
 
-![Schaltplan](https://raw.githubusercontent.com/binarybear-de/the-button/main/src/drawio.svg)
+<p align="center">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/binarybear-de/the-button/main/src/drawio.svg">
+</p>
+
 Das Script wartet auf einen Tastendruck (der Schalter hat ein NC((normally closed))-Schalter, welcher an PIN 9 und GND angeschlossen ist.
 
 
