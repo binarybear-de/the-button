@@ -2,7 +2,7 @@ In einem Notaus-Schaltergehäuse wird ein Arduino Pro Micro verbaut, welcher üb
 Ziel des Projektes ist ein Knopf zum schnellen Windows sperren (oder sonstigen Programmierbaren Tastenkombinationen für das Betriebssystem.
 
 <p align="center">
-  <img width="460" height="300" src="https://raw.githubusercontent.com/binarybear-de/the-button/main/src/drawio.svg">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/binarybear-de/the-button/main/src/button.png">
 </p>
 
 Das Script wartet auf einen Tastendruck (der Schalter hat ein NC((normally closed))-Schalter, welcher an PIN 9 und GND angeschlossen ist.
@@ -28,3 +28,7 @@ void loop() {
   delay(100);
 }
 ```
+# Schaltplan
+<p align="center">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/binarybear-de/the-button/main/src/drawio.svg">
+</p>
